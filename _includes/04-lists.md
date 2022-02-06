@@ -1,4 +1,4 @@
-:heart:
-:+1:
-:smile:
-:tada:
+* :heart:
+- :+1:
+* :smile:
+- :tada:
